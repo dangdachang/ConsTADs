@@ -29,6 +29,8 @@ The TAD separation landscape can be used in scenarios such as:
 
 </p>
 
+We also give the results of ConsTADs for GM12878 as an example [here](./GM12878_ConsTADs_results).
+
 ## Getting start
 
 ### Installation
