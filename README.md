@@ -80,7 +80,8 @@ If you are having issues, please let us know. We have a mailing list located at:
 
 ### Citation
 
-If ConsTADs is useful for your research, consider citing our preprint:
+If ConsTADs is useful for your research, consider citing our paper:
 
-Defining the separation landscape of topological domains for decoding consensus domain organization of 3D genome. 
-Dachang Dang, Shao-Wu Zhang, Ran Duan, Shihua Zhang. Genome Res., 2023, doi: 10.1101/gr.277187.122.
+> Defining the separation landscape of topological domains for decoding consensus domain organization of 3D genome. 
+> Dachang Dang, Shao-Wu Zhang, Ran Duan, Shihua Zhang. Genome Res., 2023,
+> doi: 10.1101/gr.277187.122.
